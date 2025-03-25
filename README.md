@@ -1,5 +1,11 @@
 # vue2-map
 
+## Vue2 Map数据更新问题
+```
+使用mapVersion处理版本问题，使用computed返回map
+```
+
+
 ## Project setup
 ```
 pnpm install
