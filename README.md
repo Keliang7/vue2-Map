@@ -2,7 +2,8 @@
 
 ## Vue2 Map数据更新问题
 ```
-使用mapVersion处理版本问题，使用computed返回map
+方法一、 使用mapVersion处理版本问题，使用computed返回map
+
 ```
 
 
